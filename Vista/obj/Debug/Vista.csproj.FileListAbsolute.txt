@@ -1,0 +1,105 @@
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+C:\Users\ADMIN\Downloads\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+C:\Users\ADMIN\Downloads\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.dll
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe.config
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.exe
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Vista.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.dll
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.dll
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Controladores.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\bin\Debug\Modelos.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmEmitirComprobante.resources
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.FrmProcesarPago.resources
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.frmRegistrarPedido.resources
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.Properties.Resources.resources
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.CopyComplete
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.exe
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Vista\obj\Debug\Vista.csproj.SuggestedBindingRedirects.cache

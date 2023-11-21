@@ -1,0 +1,21 @@
+---------------------------------------
+COMPROBANTE DE CONSUMO - ASN RESTAURANT
+---------------------------------------
+
+Código de comprobante: CO001
+Código de Pedido: PE001
+Código de Pago: PA001
+Cliente: Nilton Lazo
+DNI del Cliente: 74091904
+Nombre del Platillo: Ají de Gallina
+Cantidad de Platillos: 2
+Precio por Platillo en Soles: 12.0000
+Tipo de Pago: Efectivo
+Número de Tarjeta: Sin Número
+Monto Total en Soles: 24.0000
+Fecha de Consumo: 19/11/2023 00:00:00
+Tipo de Comprobante: Boleta
+
+------------------------------
+Muchas gracias, vuelva pronto.
+------------------------------

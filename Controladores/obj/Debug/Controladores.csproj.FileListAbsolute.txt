@@ -1,0 +1,12 @@
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\bin\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\bin\Debug\Controladores.pdb
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\obj\Debug\Controladores.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\obj\Debug\Controladores.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\obj\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Controladores\obj\Debug\Controladores.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\bin\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\bin\Debug\Controladores.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\obj\Debug\Controladores.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\obj\Debug\Controladores.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\obj\Debug\Controladores.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Controladores\obj\Debug\Controladores.pdb

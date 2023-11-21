@@ -1,0 +1,36 @@
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+F:\UNIVERSIDAD - CICLOS\ProyectDiseño\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+F:\UNIVERSIDAD - CICLOS\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+D:\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+E:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.dll
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\bin\Debug\Modelos.pdb
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.dll
+D:\Universidad Continental\Ciclo 06\Diseño de Software\Semana 13\Diseño de Software\FacilidadUso_Software\FacilidadUso_Software\Modelos\obj\Debug\Modelos.pdb

@@ -1,0 +1,21 @@
+---------------------------------------
+COMPROBANTE DE CONSUMO - ASN RESTAURANT
+---------------------------------------
+
+Código de comprobante: CO003
+Código de Pedido: PE003
+Código de Pago: PA003
+Cliente: Cristina Vilchez
+DNI del Cliente: 45216897
+Nombre del Platillo: Lomo Saltado
+Cantidad de Platillos: 1
+Precio por Platillo en Soles: 15.0000
+Tipo de Pago: Efectivo
+Número de Tarjeta: Sin Número
+Monto Total en Soles: 15.0000
+Fecha de Consumo: 19/11/2023 00:00:00
+Tipo de Comprobante: Boleta
+
+------------------------------
+Muchas gracias, vuelva pronto.
+------------------------------

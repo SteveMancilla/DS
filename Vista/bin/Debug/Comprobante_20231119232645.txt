@@ -1,0 +1,21 @@
+---------------------------------------
+COMPROBANTE DE CONSUMO - ASN RESTAURANT
+---------------------------------------
+
+Código de comprobante: CO004
+Código de Pedido: PE004
+Cliente: Yasmin Yorley
+DNI del Cliente: 56321487
+Nombre del Platillo: Pollo al Horno
+Cantidad de Platillos: 3
+Precio por Platillo en Soles: 12.0000
+Código de Pago: PA004
+Tipo de Pago: Agora
+Número de Tarjeta: 963251268
+Monto Total en Soles: 36.0000
+Fecha de Consumo: 19/11/2023 00:00:00
+Tipo de Comprobante: Boleta
+
+------------------------------
+Muchas gracias, vuelva pronto.
+------------------------------
